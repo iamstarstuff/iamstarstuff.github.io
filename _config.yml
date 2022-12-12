@@ -16,7 +16,7 @@ paginate_path: /blog/page:num/
 twitter: "https://twitter.com/astropratikb"
 linkedin: "https://www.linkedin.com/in/pratik-barve/"
 #stackoverflow: "#"
-github: "https://github.com/iamstarstuff"
+github: "/iamstarstuff"
 #researchgate: "#"
 #orcid: "#"
 #quora: "#"
