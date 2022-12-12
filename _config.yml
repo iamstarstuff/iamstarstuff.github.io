@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Pratik Barve
+description: M.Sc Data Science | SETU Ireland
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: "/" #name of GitHub repository
+url: "iamstarstuff.github.io" #custom url to be used instead of GitHub repository
+email: "barvepratik96@gmail.com"
 
 # Pagination
 paginate: 4
@@ -13,14 +13,14 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
+twitter: "https://twitter.com/astropratikb"
+linkedin: "https://www.linkedin.com/in/pratik-barve/"
 stackoverflow: "#"
-github: "#"
+github: "https://github.com/iamstarstuff"
 researchgate: "#"
 orcid: "#"
 quora: "#"
-instagram: "#"
+instagram: "https://www.instagram.com/i_am_starstuff/"
 facebook: "#"
 
 
