@@ -8,9 +8,9 @@ url: "" #custom url to be used instead of GitHub repository
 email: "barvepratik96@gmail.com"
 
 # Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+paginate: 2
+#permalink: /blog/:year/:title/
+#paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "astropratikb/"
