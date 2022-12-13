@@ -4,7 +4,7 @@ title: Pratik Barve
 description: M.Sc Data Science | SETU Ireland
 
 baseurl: "/" #name of GitHub repository
-url: "iamstarstuff.github.io" #custom url to be used instead of GitHub repository
+url: "" #custom url to be used instead of GitHub repository
 email: "barvepratik96@gmail.com"
 
 # Pagination
