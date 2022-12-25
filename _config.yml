@@ -48,8 +48,9 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - FRB.md
       - CosmicMuonTracker.md
+      - FRB.md
+      
       #- longerProjectTitle.md
       #- redirect.md
       #- project4.md
